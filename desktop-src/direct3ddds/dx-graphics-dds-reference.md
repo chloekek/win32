@@ -11,7 +11,7 @@ ms.date: 05/31/2018
 The DDS reference documentation contains the API elements that define the layout of a DDS file. These API elements are defined in the **DDSWithoutD3DX** source files. This sample is located in the `\Samples\C++\Direct3D10\DDSWithoutD3DX\` folder of the DirectX SDK (June 2010).
 
 -   [**DDS\_HEADER**](dds-header.md)
--   [**DDS\_HEADER\_DX10**](dds-header-dxt10.md)
+-   [**DDS\_HEADER\_DXT10**](dds-header-dxt10.md)
 -   [**DDS\_PIXELFORMAT**](dds-pixelformat.md)
 
 ## Related topics
